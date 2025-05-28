@@ -58,6 +58,7 @@ Você pode implementar o que achar conveniente, porém vamos nos atentar somente
   "payerEmail": "payer@emailpayer.com",
   "payeeEmail": "payee@emailpayee.com"
 }
+```
 
 Caso ache interessante, faça uma proposta de endpoint e apresente para os entrevistadores.
 
