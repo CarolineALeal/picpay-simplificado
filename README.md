@@ -4,7 +4,7 @@ Uma API RESTful para cadastro de usuários e transferência de dinheiro entre el
 
 ## Descrição do Projeto
 
-Neste projeto, implementamos um backend em Laravel que permite:
+Neste projeto, foi implementado um backend em Laravel que permite:
 
 - **Cadastro de Usuários**: Usuários comuns ou lojistas, com validação de CPF/CNPJ e dados únicos.  
 - **Autenticação**: Registro, login e logout utilizando tokens Bearer (Laravel Sanctum).  
